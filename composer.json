@@ -1,0 +1,19 @@
+{
+    "name": "andrey/million-records",
+    "autoload": {
+        "psr-4": {
+            "Andrey\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "andrey",
+            "email": "shestakovaa@keypoint.ru"
+        }
+    ],
+    "require": {
+        "php": "^7.4",
+        "faapz/pdo": "^2.1",
+        "symfony/dotenv": "^5.2"
+    }
+}
